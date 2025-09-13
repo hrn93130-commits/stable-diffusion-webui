@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-import re
+import reIndian teenage boy, 16 years old, wearing school uniform, standing at a small rural bus stop with his father, early morning fog, village road, anime manga style, clean lineart, detailed background
 from collections import namedtuple
 import lark
 
@@ -462,3 +462,4 @@ if __name__ == "__main__":
     doctest.testmod(optionflags=doctest.NORMALIZE_WHITESPACE)
 else:
     import torch  # doctest faster
+
